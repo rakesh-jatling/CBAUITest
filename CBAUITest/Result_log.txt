@@ -1,0 +1,6 @@
+[13:50:13:325] [Info] Setting up WebDriver Capabilities
+[13:50:14:249] [Info] Launching WebDriver
+[13:50:16:098] [Info] Navigate to URL : https://www.commbank.com.au
+[13:50:16:103] [Info] WebDriver Launched Successfully
+[13:50:16:719] [Info] Element visible : 'Login'
+[13:50:18:586] [Info] Quit Browser
